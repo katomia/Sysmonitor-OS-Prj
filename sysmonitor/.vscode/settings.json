@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "qfile": "cpp",
+        "qtimer": "cpp",
+        "qprocess": "cpp"
+    }
+}
